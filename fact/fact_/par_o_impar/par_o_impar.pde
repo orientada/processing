@@ -1,5 +1,5 @@
 int b;
-int a=500;
+int a=501;
 int value=30;
 int x;
 

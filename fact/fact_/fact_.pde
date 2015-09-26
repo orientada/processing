@@ -1,4 +1,4 @@
-int num = 50;// numero del factorial
+int num = 30;// numero del factorial
 int value;//copia del resultado para manejar la ellipse y sus colores
 int A = 800; // limite para pintar la ellipse del factorial
 int col=value ; //colores
